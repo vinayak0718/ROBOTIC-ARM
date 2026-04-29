@@ -66,7 +66,7 @@ All control logic is available in the `/code` directory.
 
 ## 📷 Project Image
 <p align="center">
-  <img src="" width="500"/>
+  <img src="WhatsApp Image 2026-04-28 at 10.21.34 PM.jpeg" width="500"/>
 </p>
 
 
