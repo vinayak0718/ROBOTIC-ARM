@@ -46,7 +46,7 @@ This robotic arm is designed to mimic human arm movement using servo motors. It 
 
 ## 🔌 Circuit Diagram
 <p align="center">
-  <img src="images/car-bot.jpg" width="500"/>
+  <img src="WhatsApp Image 2026-04-25 at 11.22.05 PM.jpeg" width="500"/>
 </p>
 
 ---
