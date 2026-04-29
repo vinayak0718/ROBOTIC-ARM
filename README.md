@@ -65,7 +65,10 @@ All control logic is available in the `/code` directory.
 ---
 
 ## 📷 Project Image
-(Add your robotic arm image in `/images` and link here)
+<p align="center">
+  <img src="" width="500"/>
+</p>
+
 
 ---
 
@@ -89,6 +92,3 @@ All control logic is available in the `/code` directory.
 Feel free to fork and improve this project!
 
 ---
-
-## 📜 License
-MIT License
